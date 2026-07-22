@@ -1,0 +1,101 @@
+Prscrbr_NPI,Prscrbr_Last_Org_Name,Prscrbr_First_Name,Prscrbr_City,Prscrbr_State_Abrvtn,Prscrbr_State_FIPS,Prscrbr_Type,Prscrbr_Type_Src,Brnd_Name,Gnrc_Name,Tot_Clms,Tot_30day_Fills,Tot_Day_Suply,Tot_Drug_Cst,Tot_Benes,GE65_Sprsn_Flag,GE65_Tot_Clms,GE65_Tot_30day_Fills,GE65_Tot_Drug_Cst,GE65_Tot_Day_Suply,GE65_Bene_Sprsn_Flag,GE65_Tot_Benes
+1003000126,Enkeshafi,Ardalan,Bethesda,MD,24,Internal Medicine,Claim-Specialty,Abrysvo,"Rsv Vacc, Pref A And Pref B/Pf",20,20.0,20,5994.01,20.0,,20.0,20.0,5994.01,20.0,,20.0
+1003000126,Enkeshafi,Ardalan,Bethesda,MD,24,Internal Medicine,Claim-Specialty,Boostrix Tdap,"Diphth,pertuss(Acell),tet Vac",12,12.0,12,648.26,12.0,,12.0,12.0,648.26,12.0,,12.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Acetaminophen-Codeine,Acetaminophen With Codeine,24,24.0,628,362.48,11.0,#,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Amitriptyline Hcl,Amitriptyline Hcl,47,47.0,1410,271.17,16.0,,30.0,30.0,150.18,900.0,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Baclofen,Baclofen,47,47.0,1395,333.35,26.0,,33.0,33.0,222.14,975.0,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Belbuca,Buprenorphine Hcl,12,12.0,321,4388.84,,*,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Celecoxib,Celecoxib,18,22.0,660,132.21,,*,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Cyclobenzaprine Hcl,Cyclobenzaprine Hcl,45,47.0,1410,399.69,26.0,,14.0,14.0,122.36,420.0,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Dantrolene Sodium,Dantrolene Sodium,23,23.0,496,587.02,15.0,#,,,,,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Diclofenac Sodium,Diclofenac Sodium,47,51.7,1091,1236.33,28.0,,32.0,32.0,869.57,689.0,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Duloxetine Hcl,Duloxetine Hcl,26,28.0,840,188.16,14.0,,15.0,17.0,124.63,510.0,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Gabapentin,Gabapentin,293,386.0,11516,4512.22,144.0,,200.0,253.0,3152.83,7540.0,,92.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,340,340.0,9273,6027.31,164.0,,228.0,228.0,3766.39,6012.0,,116.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Lidocaine,Lidocaine,30,32.0,957,2934.97,18.0,#,,,,,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Meloxicam,Meloxicam,41,55.0,1650,86.73,24.0,,15.0,25.0,33.43,750.0,,13.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Methocarbamol,Methocarbamol,21,23.0,670,256.34,13.0,#,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Methylprednisolone,Methylprednisolone,20,20.0,120,127.08,20.0,#,,,,,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Morphine Sulfate Er,Morphine Sulfate,47,47.0,1394,678.42,,#,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Movantik,Naloxegol Oxalate,45,47.0,1406,18910.97,22.0,,25.0,27.0,10801.69,810.0,,11.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Nortriptyline Hcl,Nortriptyline Hcl,17,19.0,550,110.96,,*,,,,,*,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Oxycodone Hcl,Oxycodone Hcl,61,61.0,1665,696.96,33.0,,50.0,50.0,604.08,1365.0,#,
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Oxycodone-Acetaminophen,Oxycodone Hcl/Acetaminophen,267,267.0,7623,5344.44,113.0,,156.0,156.0,2863.78,4466.0,,67.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Pregabalin,Pregabalin,111,127.0,3806,3540.32,50.0,,52.0,58.0,1182.11,1740.0,,24.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Tizanidine Hcl,Tizanidine Hcl,142,160.0,4613,1082.66,77.0,,84.0,94.0,597.75,2679.0,,47.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Tramadol Hcl,Tramadol Hcl,101,101.0,2706,530.12,41.0,,73.0,73.0,396.49,1866.0,,30.0
+1003000142,Khalil,Rashid,Toledo,OH,39,Anesthesiology,Claim-Specialty,Trazodone Hcl,Trazodone Hcl,13,13.0,390,47.78,,*,,,,,*,
+1003000167,Escobar,Julio,Dayton,NV,32,Dentist,NPPES-Specialty,Amoxicillin,Amoxicillin,47,47.0,268,102.79,38.0,#,,,,,#,
+1003000167,Escobar,Julio,Dayton,NV,32,Dentist,NPPES-Specialty,Dexamethasone,Dexamethasone,13,13.0,13,22.43,12.0,,13.0,13.0,22.43,13.0,,12.0
+1003000423,Velotta,Jennifer,Mentor,OH,39,Obstetrics & Gynecology,Claim-Specialty,Clobetasol Propionate,Clobetasol Propionate,18,19.4,386,479.42,,,18.0,19.4,479.42,386.0,*,
+1003000423,Velotta,Jennifer,Mentor,OH,39,Obstetrics & Gynecology,Claim-Specialty,Estradiol,Estradiol,42,142.4,4269,3240.27,22.0,#,,,,,#,
+1003000423,Velotta,Jennifer,Mentor,OH,39,Obstetrics & Gynecology,Claim-Specialty,Nitrofurantoin Mono-Macro,Nitrofurantoin Monohyd/M-Cryst,13,15.0,167,175.27,,,13.0,15.0,175.27,167.0,*,
+1003000480,Rothchild,Kevin,Aurora,CO,8,General Surgery,Claim-Specialty,Omeprazole,Omeprazole,13,38.3,1150,652.8,,*,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Albuterol Sulfate Hfa,Albuterol Sulfate,90,105.3,2612,2518.44,37.0,,78.0,88.0,2163.7,2117.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Alendronate Sodium,Alendronate Sodium,94,222.9,6634,1018.27,25.0,,94.0,222.9,1018.27,6634.0,,25.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Alfuzosin Hcl Er,Alfuzosin Hcl,16,16.0,480,119.55,,,16.0,16.0,119.55,480.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Allopurinol,Allopurinol,65,165.0,4950,765.11,15.0,,65.0,165.0,765.11,4950.0,,15.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Alprazolam,Alprazolam,36,53.0,1555,156.46,12.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Amitriptyline Hcl,Amitriptyline Hcl,12,36.0,1080,303.17,,,12.0,36.0,303.17,1080.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Amlodipine Besylate,Amlodipine Besylate,474,1175.3,35215,2990.89,113.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Amoxicillin-Clavulanate Potass,Amoxicillin/Potassium Clav,18,18.0,138,121.93,18.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Aripiprazole,Aripiprazole,30,53.0,1590,3012.27,,,13.0,15.0,1519.69,450.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Atenolol,Atenolol,17,51.0,1530,66.86,,,17.0,51.0,66.86,1530.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Atorvastatin Calcium,Atorvastatin Calcium,451,1154.7,34610,4970.46,115.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Azelastine Hcl,Azelastine Hcl,13,17.7,530,237.34,,,13.0,17.7,237.34,530.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Basaglar Kwikpen U-100,"Insulin Glargine,hum.Rec.Anlog",11,11.4,290,4957.39,,,11.0,11.4,4957.39,290.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Bupropion Hcl Sr,Bupropion Hcl,19,33.0,990,414.79,,,19.0,33.0,414.79,990.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Bupropion Xl,Bupropion Hcl,105,215.0,6450,2358.41,22.0,,92.0,194.0,2220.27,5820.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Buspirone Hcl,Buspirone Hcl,25,55.7,1670,514.21,,,25.0,55.7,514.21,1670.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Butalbital-Acetaminophen-Caffe,Butalb/Acetaminophen/Caffeine,13,14.0,397,350.54,,#,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Calcitriol,Calcitriol,12,12.0,359,312.33,,,0.0,0.0,0.0,0.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Carvedilol,Carvedilol,49,107.0,3169,387.58,13.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Celecoxib,Celecoxib,14,22.0,660,106.34,,*,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Chlorhexidine Gluconate,Chlorhexidine Gluconate,20,20.0,304,205.09,,,0.0,0.0,0.0,0.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Citalopram Hbr,Citalopram Hydrobromide,32,68.7,2060,123.33,,,32.0,68.7,123.33,2060.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Clonazepam,Clonazepam,30,38.0,1075,277.11,11.0,,17.0,25.0,89.99,705.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Clonidine Hcl,Clonidine Hcl,18,43.2,1295,72.27,,#,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Clopidogrel,Clopidogrel Bisulfate,79,185.0,5525,1183.79,18.0,,79.0,185.0,1183.79,5525.0,,18.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Diazepam,Diazepam,11,13.0,291,49.66,,*,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Dicyclomine Hcl,Dicyclomine Hcl,13,29.0,870,555.22,,#,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Digoxin,Digoxin,12,14.0,420,2133.66,,,12.0,14.0,2133.66,420.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Diltiazem 24hr Er (Cd),Diltiazem Hcl,12,14.0,420,225.19,,,12.0,14.0,225.19,420.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Divalproex Sodium Er,Divalproex Sodium,12,12.0,360,382.04,,,0.0,0.0,0.0,0.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Dofetilide,Dofetilide,12,12.0,360,1100.52,,,12.0,12.0,1100.52,360.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Donepezil Hcl,Donepezil Hcl,15,29.0,870,263.01,,,15.0,29.0,263.01,870.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Doxazosin Mesylate,Doxazosin Mesylate,14,36.0,1080,393.77,,,14.0,36.0,393.77,1080.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Doxycycline Hyclate,Doxycycline Hyclate,37,37.0,311,233.38,32.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Duloxetine Hcl,Duloxetine Hcl,61,133.2,3954,1155.74,13.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Eliquis,Apixaban,138,223.0,6690,126538.49,25.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Enalapril Maleate,Enalapril Maleate,17,49.0,1470,507.71,,,17.0,49.0,507.71,1470.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Escitalopram Oxalate,Escitalopram Oxalate,68,184.9,5547,1029.6,22.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Eszopiclone,Eszopiclone,12,12.0,360,88.36,,,12.0,12.0,88.36,360.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Ezetimibe,Ezetimibe,24,58.0,1740,492.59,,,24.0,58.0,492.59,1740.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Famotidine,Famotidine,144,332.4,9934,1574.86,38.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Fenofibrate,Fenofibrate,28,64.0,1920,727.1,,,28.0,64.0,727.1,1920.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Finasteride,Finasteride,35,103.6,3085,802.04,12.0,,35.0,103.6,802.04,3085.0,,12.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Fluticasone Propionate,Fluticasone Propionate,57,111.6,3347,699.66,24.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Fluticasone-Salmeterol,Fluticasone Propion/Salmeterol,52,62.0,1860,5181.6,12.0,,52.0,62.0,5181.6,1860.0,,12.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Fosinopril Sodium,Fosinopril Sodium,18,45.5,1365,199.84,,,18.0,45.5,199.84,1365.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Furosemide,Furosemide,76,169.0,5066,433.34,21.0,,76.0,169.0,433.34,5066.0,,21.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Gabapentin,Gabapentin,194,322.1,9641,2554.6,48.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Glimepiride,Glimepiride,24,52.0,1556,204.05,,,24.0,52.0,204.05,1556.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Glipizide,Glipizide,90,204.0,6000,1131.7,20.0,,90.0,204.0,1131.7,6000.0,,20.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Glycopyrrolate,Glycopyrrolate,12,12.2,366,846.73,,,0.0,0.0,0.0,0.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Hydrochlorothiazide,Hydrochlorothiazide,212,534.9,16006,764.54,52.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Hydrocodone-Acetaminophen,Hydrocodone/Acetaminophen,34,34.0,653,835.79,,#,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Ipratropium Bromide,Ipratropium Bromide,13,21.8,651,429.5,,,13.0,21.8,429.5,651.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Irbesartan,Irbesartan,23,45.0,1350,541.08,,,11.0,33.0,51.91,990.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Isosorbide Mononitrate Er,Isosorbide Mononitrate,19,32.0,960,34.33,,#,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Januvia,Sitagliptin Phosphate,19,33.0,990,17629.38,,,19.0,33.0,17629.38,990.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Jardiance,Empagliflozin,31,65.0,1950,37157.23,,,31.0,65.0,37157.23,1950.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Klor-Con M20,Potassium Chloride,28,83.7,2510,699.43,,,28.0,83.7,699.43,2510.0,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Lamotrigine,Lamotrigine,20,20.3,608,208.26,,,0.0,0.0,0.0,0.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Levothyroxine Sodium,Levothyroxine Sodium,430,831.4,24651,3333.23,77.0,,393.0,794.2,2778.17,23562.0,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Lisinopril,Lisinopril,381,927.5,27820,3548.32,91.0,,381.0,927.5,3548.32,27820.0,,91.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Lisinopril-Hydrochlorothiazide,Lisinopril/Hydrochlorothiazide,36,107.3,3220,667.83,12.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Loperamide,Loperamide Hcl,12,16.1,381,210.76,,*,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Lorazepam,Lorazepam,62,70.5,1650,392.53,28.0,#,,,,,#,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Losartan Potassium,Losartan Potassium,247,557.9,16690,2872.59,57.0,,247.0,557.9,2872.59,16690.0,,57.0
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Meclizine Hcl,Meclizine Hcl,12,12.0,139,41.84,,#,,,,,*,
+1003000530,Semonche,Amanda,Quakertown,PA,42,Internal Medicine,Claim-Specialty,Meloxicam,Meloxicam,39,77.0,2300,154.58,,,39.0,77.0,154.58,2300.0,*,
