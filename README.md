@@ -241,14 +241,6 @@ The dashboard consists of four interconnected pages designed to answer different
 - Drill-down analysis across specialties, regions, physicians, and products.
 - Business-focused visualizations for commercial performance, HCP targeting, and market opportunity analysis.
 
-## Dashboard Preview
-| Page | Preview |
-|------|---------|
-| **Commercial Performance Overview** | <img width="922" height="530" alt="dashboard_page1" src="https://github.com/user-attachments/assets/500159ee-6ed3-44b6-bb76-93f35a20f9b6" /> |
-| **Sales Force Effectiveness** | <img width="922" height="527" alt="dashboard_page2" src="https://github.com/user-attachments/assets/e4cdc8bc-b7eb-4f9e-8514-26ab5ec95730" /> |
-| **HCP Segmentation & Targeting** | <img width="921" height="535" alt="dashboard_page3" src="https://github.com/user-attachments/assets/252b6b4c-996d-4efb-97b9-f037f89a698e" /> |
-| **Commercial Opportunity & Market Insights** | <img width="922" height="467" alt="dashboard_page4" src="https://github.com/user-attachments/assets/cb792e9f-3f3e-4cff-a51a-69e3b14982ec" /> |
-
 
 # Business Insights and Recommendations
 
